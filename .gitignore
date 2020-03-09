@@ -2,3 +2,4 @@
 *.Rhistory
 *.DBF
 ignore/
+.ipynb_checkpoints/
