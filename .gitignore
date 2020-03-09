@@ -3,3 +3,4 @@
 *.DBF
 ignore/
 .ipynb_checkpoints/
+myfnlib/__pycache__/
